@@ -1,5 +1,5 @@
 # Pangram
-  A string is said to be an *Pangram* if it contains all the 26 alphabets of the English language.
+  A string is said to be a *Pangram* if it contains all the 26 alphabets of the English language.
 
 ### Input Format
 - The input consists of a string(with or without spaces)
@@ -12,7 +12,6 @@
 
 ```
 The quick brown fox jumps over the lazy dog
-
 ```
 ### Sample Output
 
@@ -28,6 +27,6 @@ We stored the string in a variable and iterated through the length of the string
 
 ### Implemented in:
 
- - [C++](Anagram.cpp)
- - [Python](Anagram.py)
+ - [C++](Pangram.cpp)
+ - [Python](Pangram.py)
 
