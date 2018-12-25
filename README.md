@@ -16,6 +16,7 @@ Happy Open Sourcing!
 - [Maximum of Array](algorithms/Array/maximum_of_array)
 - [Number of Inversions in a Array](algorithms/Array/No-of-Inversions)
 - [Pangram](algorithms/Array/Pangram)
+- [Reverse an array](algorithms/Array/reverse_elements_of_array)
 
 ### Binary Search Tree
 - [Finding Minimum of BST](algorithms/Binary_Search_Tree/bst_min)
@@ -30,6 +31,7 @@ Happy Open Sourcing!
 ### Graph
 
 - [Breadth First Traversal](algorithms/Graph/breadth_first_traversal)
+- [Depth First Traversal](algorithms/Graph/DFS_Graph)
 - [Dijkstra Shortest Path](algorithms/Graph/dijkstra)
 - [Floyd Warshall Algorithm](algorithms/Graph/floyd_warshall)
 - [Graph Coloring using backtracking](algorithms/Graph/graph_coloring)
@@ -54,6 +56,7 @@ Happy Open Sourcing!
 - [Insertion Sort](algorithms/Sorting/insertion_sort)
 - [Merge Sort](algorithms/Sorting/Merge_sort)
 - [Quick Sort](algorithms/Sorting/quick_sort)
+- [Radix Sort](algorithms/Sorting/radix_sort)
 - [Selection Sort](algorithms/Sorting/selection_sort)
 
 ### Searching
